@@ -54,3 +54,35 @@ và Frontend.
 - Hư hỏng
 - Đang sửa chữa
 - Ngừng sử dụng
+## 8. Frontend React
+
+### Công nghệ
+- React
+- Vite
+- HTML, CSS, JavaScript
+- Fetch API
+
+### Chức năng
+- Hiển thị danh sách thiết bị
+- Xem chi tiết thiết bị
+- Thêm thiết bị
+- Cập nhật thiết bị
+- Xóa thiết bị
+- Tìm kiếm thiết bị
+- Quản lý tình trạng thiết bị
+
+### Cài đặt và chạy
+
+cd frontend
+npm install
+npm run dev
+
+### Địa chỉ truy cập
+
+http://localhost:5173
+
+### Kết nối Backend
+
+Backend chạy tại http://localhost:5000
+
+Cấu hình địa chỉ Backend trong public/config.js
